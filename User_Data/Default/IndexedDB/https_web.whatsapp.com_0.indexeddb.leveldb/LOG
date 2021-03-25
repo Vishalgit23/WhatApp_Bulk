@@ -1,0 +1,30 @@
+2021/03/24-12:17:56.553 5824 Reusing MANIFEST C:\Users\hp\Desktop\Django\test\src\WB\User_Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/24-12:17:56.554 5824 Recovering log #27
+2021/03/24-12:17:56.669 5824 Reusing old log C:\Users\hp\Desktop\Django\test\src\WB\User_Data\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000027.log 
+2021/03/24-12:19:43.144 599c Level-0 table #32: started
+2021/03/24-12:19:43.557 599c Level-0 table #32: 1161609 bytes OK
+2021/03/24-12:19:43.657 599c Delete type=0 #27
+2021/03/24-12:19:48.889 72b8 Compacting 1@1 + 1@2 files
+2021/03/24-12:19:49.102 72b8 Generated table #33@1: 17036 keys, 774758 bytes
+2021/03/24-12:19:49.103 72b8 Compacted 1@1 + 1@2 files => 774758 bytes
+2021/03/24-12:19:49.134 72b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/24-12:19:49.135 72b8 Delete type=2 #29
+2021/03/24-12:19:49.135 72b8 Delete type=2 #32
+2021/03/24-12:32:45.781 41b0 Level-0 table #35: started
+2021/03/24-12:32:46.057 41b0 Level-0 table #35: 1240040 bytes OK
+2021/03/24-12:32:46.139 41b0 Delete type=0 #31
+2021/03/24-12:32:46.158 6358 Compacting 1@1 + 1@2 files
+2021/03/24-12:32:46.408 6358 Generated table #36@1: 23801 keys, 1062016 bytes
+2021/03/24-12:32:46.408 6358 Compacted 1@1 + 1@2 files => 1062016 bytes
+2021/03/24-12:32:46.441 6358 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/24-12:32:46.442 6358 Delete type=2 #33
+2021/03/24-12:32:46.442 6358 Delete type=2 #35
+2021/03/24-13:02:00.461 7118 Level-0 table #38: started
+2021/03/24-13:02:00.748 7118 Level-0 table #38: 1255804 bytes OK
+2021/03/24-13:02:00.869 7118 Delete type=0 #34
+2021/03/24-13:02:02.095 2610 Compacting 1@1 + 1@2 files
+2021/03/24-13:02:02.444 2610 Generated table #39@1: 29119 keys, 1306742 bytes
+2021/03/24-13:02:02.444 2610 Compacted 1@1 + 1@2 files => 1306742 bytes
+2021/03/24-13:02:02.499 2610 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/24-13:02:02.501 2610 Delete type=2 #36
+2021/03/24-13:02:02.501 2610 Delete type=2 #38
